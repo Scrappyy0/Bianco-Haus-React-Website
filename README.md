@@ -1,5 +1,5 @@
 # Bianco-Haus-React-Website
-Website made for promotion of Gold Coast residental home house space for photographic opportunity.  Made with React/Tailwind. 
+Website made for promotion of Gold Coast residental home house space for photographic opportunity.  Made with React/Tailwind and compiled with Vite. 
 
 
 -------------------------------------------------
