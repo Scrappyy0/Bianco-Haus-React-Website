@@ -6,7 +6,7 @@ Website made for promotion of Gold Coast residental home house space for photogr
 
 Start guide:
 
-Git Clone project into any location using cmd or your preffered CLI 
+Git Clone project into any location using cmd or your preferred CLI 
 
 cd to location of cloned repo 
 
